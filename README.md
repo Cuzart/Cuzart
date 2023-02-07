@@ -2,7 +2,7 @@
 
 #### 👀 I’m interested in everything related to web technologies and design
 
-#### 🌱 I’m currently learning Next.js and Sanity
+#### 🌱 I’m currently learning Next.js and Strapi
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
