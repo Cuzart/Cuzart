@@ -2,7 +2,7 @@
 
 #### 👀 I’m interested in everything related to web technologies and design
 
-#### 🌱 I’m currently exploring Next.js 13 and Payload CMS
+#### 🌱 I’m currently exploring Next.js, Supabase and Payload CMS
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
